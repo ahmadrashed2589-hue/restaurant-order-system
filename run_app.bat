@@ -1,0 +1,6 @@
+@echo off
+echo Installing libraries if missing...
+pip install -r requirements.txt
+echo Starting the App...
+streamlit run app.py
+pause
