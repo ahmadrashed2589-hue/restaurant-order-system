@@ -70,14 +70,14 @@ Allows operators to configure and dynamically expand product catalogs without mo
 * Live global catalog adjustments automatically propagate to newly generated restaurant workbooks.
 
 ### 2. Multi-Restaurant Accounting & Isolation
-Maintains isolated, dedicated workbooks per restaurant establishment:
-* `مطعم بيت الشاورما - اربد.xlsx`
-* `مطعم بيت الشاورما - قميم.xlsx`
-* `مطعم DUST & DIP.xlsx`
-* `مطعم ZONK.xlsx`
-* `أهالينا.xlsx`
-* `جمال الدين - الاغوار.xlsx`
-* `جيت.xlsx`
+Maintains isolated, dedicated workbooks per restaurant establishment (anonymized for client privacy):
+* `مطعم 1.xlsx`
+* `مطعم 2.xlsx`
+* `مطعم 3.xlsx`
+* `مطعم 4.xlsx`
+* `مطعم 5.xlsx`
+* `مطعم 6.xlsx`
+* `مطعم 7.xlsx`
 
 ### 3. OpenPyXL Automated Styling Engine
 Programmatically produces accounting-grade Excel spreadsheets adhering to strict visual guidelines:
